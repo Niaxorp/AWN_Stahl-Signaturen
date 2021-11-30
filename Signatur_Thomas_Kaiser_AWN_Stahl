@@ -72,10 +72,10 @@
 <table>
     <tbody>
         <tr>
-            <td style="font-size: 28px; color: #B62324;"><strong>MARKUS WALTER</strong></td>
+            <td style="font-size: 28px; color: #B62324; text-transform:uppercase;"><strong>Thomas Kaiser</strong></td>
         </tr>
         <tr>
-            <td style="font-size: 11px; color: #262626;">GESCHÄFTSFÜHRENDER GESELLSCHAFTER</td>
+            <td style="font-size: 11px; color: #262626; text-transform:uppercase;">Lagerverwaltung</td>
         </tr>
     </tbody>    
   </table>
@@ -98,11 +98,11 @@
     <tbody>
         <tr>
             <td style="font-size: 13px; color: #B62324;"><strong>E</strong>&#x2002;</td>
-            <td><a href="mailto:markus.walter@awn-stahl.dee" style="color: #262626; text-decoration: none; font-size: 13px;">markus.walter@awn-stahl.de</a></td>
+            <td><a href="mailto:lager@awn-stahl.de" style="color: #262626; text-decoration: none; font-size: 13px;">lager@awn-stahl.de</a></td>
         </tr>
         <tr>
             <td style="font-size: 13px; color: #B62324;"><strong>T&#x2002;</strong></td>
-            <td><a href="tel:+499119961210" style="color: #262626; font-size:13px;  text-decoration: none;">0911-99612-10</a></td>
+            <td><a href="tel:+499119961220" style="color: #262626; font-size:13px;  text-decoration: none;">0911-99612-20</a></td>
         </tr>
         <tr>
             <td style="font-size: 13px; color: #B62324;"><strong>F</strong>&#x2002;</td>
